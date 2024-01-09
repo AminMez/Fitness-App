@@ -1,0 +1,39 @@
+{"workdays": [
+    {
+        "exercises": [{
+            "duration": 90,
+            "name": "Doing ur mom"
+        }],
+        "day": "Day1"
+    },
+    {
+        "exercises": [{
+            "reps": 20,
+            "sets": 160,
+            "part": "hip",
+            "name": "Sex",
+            "weight": 900
+        }],
+        "day": "Day2"
+    },
+    {
+        "exercises": [],
+        "day": "Day3"
+    },
+    {
+        "exercises": [],
+        "day": "Day4"
+    },
+    {
+        "exercises": [],
+        "day": "Day5"
+    },
+    {
+        "exercises": [],
+        "day": "Day6"
+    },
+    {
+        "exercises": [],
+        "day": "Day7"
+    }
+]}
